@@ -73,7 +73,7 @@ arguments are checked at compile time.
 
 # AUTHOR
 
-Ahmad Syaltut <Isyaltut@gmail.com>
+Ahmad Syaltut <syaltut at cpan.org>
 
 # COPYRIGHT AND LICENSE
 
