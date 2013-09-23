@@ -6,6 +6,7 @@ use strict;
 use warnings;
 
 use Carp qw(croak);
+$Carp::Internal{(__PACKAGE__)} = 1;
 use Cwd ();
 
 =head1 SYNOPSIS
